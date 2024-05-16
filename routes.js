@@ -21,7 +21,7 @@ export default function Routes() {
             />
             <Stack.Screen
                 options={{ headerShown: false }}
-                name="inside"
+                name="logado"
                 component={Dentro}
             />
             <Stack.Screen
